@@ -1,4 +1,4 @@
-package dev.vespertine.myapplication
+package dev.vespertine.autoworkouttracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package dev.vespertine.myapplication
+package dev.vespertine.autoworkouttracker
 
 import org.junit.Test
 

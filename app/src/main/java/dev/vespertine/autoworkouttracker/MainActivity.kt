@@ -1,4 +1,4 @@
-package dev.vespertine.myapplication
+package dev.vespertine.autoworkouttracker
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
